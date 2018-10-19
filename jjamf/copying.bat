@@ -1,0 +1,1 @@
+start /min xcopy /s /i "C:\Users\JEFFREY\Documents\Java\Virus Project" "‪C:\Users\JEFFREY\Documents\Java\test" 
